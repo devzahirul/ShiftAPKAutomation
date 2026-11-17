@@ -1,0 +1,9 @@
+{
+  "name": "shift-play",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "bin": { "shift-play": "./shift.mjs" },
+  "engines": { "node": ">=22.17.0" },
+  "scripts": { "test": "node --test" }
+}
